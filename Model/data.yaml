@@ -1,6 +1,0 @@
-train: C:/Users/Harsh Jajal/Documents/coding/INTEL/Model/dataset/train/images
-val: C:/Users/Harsh Jajal/Documents/coding/INTEL/Model/dataset/valid/images
-test: D:/yolov8_license_plate_recog/1_license_plate_recog/dataset/test/images
-
-nc: 1
-names: ["licence"]
